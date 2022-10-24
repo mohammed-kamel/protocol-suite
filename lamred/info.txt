@@ -1,0 +1,2 @@
+LAMRED (Locality Aware and Multi layer privacy preserving REsource Discovery) Protocol
+Layer: Service
