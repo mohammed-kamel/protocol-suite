@@ -1,0 +1,2 @@
+ATTRED (ATTribute based REsource Discovery) Protocol
+Layer: Service
