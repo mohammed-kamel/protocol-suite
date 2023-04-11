@@ -1,1 +1,1 @@
-# protocol-suite
+# Secure Protocol Suite for Addressing, Discovery and Validation
